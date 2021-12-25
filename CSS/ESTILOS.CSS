@@ -58,6 +58,24 @@ section{
     height: 250px;
 
 }
+#ACERCADE1{
+    background-color: #D8E9A8;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    grid-column: 1/4;
+    height: 150px;
+
+}
+#ACERCADE2{
+    background-color: #D8E9A8;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    grid-column: 1/4;
+    height: 350px;
+
+}
 h2{ 
     background-color: cadetblue;
     color: cornsilk;
