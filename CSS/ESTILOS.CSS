@@ -38,6 +38,26 @@ section{
     height: 253px;
 
 }
+
+#RECURSO1{
+    background-color: #D8E9A8;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    grid-column: 1/4;
+    height: 250px;
+
+}
+
+#RECURSO2{
+    background-color: #D8E9A8;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    grid-column: 1/4;
+    height: 250px;
+
+}
 h2{ 
     background-color: cadetblue;
     color: cornsilk;
